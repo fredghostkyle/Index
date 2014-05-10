@@ -5,7 +5,7 @@
 #
 # - requires PHP 5.3.0 or later
 #
-#Visit https://github.com/fredghostkyle/index
+# Visit https://github.com/fredghostkyle/index for source code.
 
 ### configuration
 
